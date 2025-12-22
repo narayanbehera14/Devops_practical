@@ -18,4 +18,5 @@ driver.get("https://www.google.com")
 print("Opened:", driver.title)
 
 time.sleep(5)
+print("Program success!")
 driver.quit()
